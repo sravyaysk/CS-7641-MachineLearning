@@ -21,7 +21,7 @@ Dataset 2 - Breast Cancer Detection - https://archive.ics.uci.edu/ml/datasets/br
 
 Steps to run the code
 -----------------------
-1. Download the code from url https://github.com/sravyaysk/CS-7641-MachineLearning/HW1
+1. Download the code from url https://github.com/sravyaysk/CS-7641-MachineLearning/tree/main/HW1
 2. Open a jupyter notebook instance, after downloading and unzipping the entire folder 'HW1'.
 3. Each dataset has its dedicated notebook - Credit Card Fraud detection and Breast Cancer classification.
 4. Download datasets from above links and store csv files in the 'data' folder in root directory (cannot upload to github as their size exceeded 25MB)
